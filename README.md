@@ -4,9 +4,16 @@
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## Live site
+ [Live-demo](https://vue-jobs-39ik8j0u5-progress-projects.vercel.app/)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+
+ ## Languages
+
+  - [ ] HTML
+  - [ ] TailwindCSS
+  - [ ] Vue
+
 
 ## Project Setup
 
